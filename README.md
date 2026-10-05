@@ -1,6 +1,6 @@
-# MegaDatabase
+# Template school project
 
-Template school project
+Project for school
 
 
 ### Landing page
