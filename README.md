@@ -1,6 +1,6 @@
 # MegaDatabase
 
-School project made with...
+Template school project
 
 
 ### Landing page
@@ -20,5 +20,10 @@ megadatabase
 └── documents
     ├── plan.md
     ├── timetable.md
-    ├── testraport.md
-    └── private
+    ├── test-plan.pdf
+    ├── private
+    ├── style.css
+    │
+    └── images
+        ├── landing-page.jpg
+        └── scalability.gif
