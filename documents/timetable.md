@@ -1,6 +1,6 @@
 ## Project Schedule
 
-**Project Period:** 25.09.2026 - 25.12.2026
+**Project Period:** 25.09.2026 - 20.12.2026
 
 ### Project Goal
 Develop a secure web application that allows users to authenticate through an ASP.NET API, access a personal dashboard, and store persistent user data in a SQL Server database.
@@ -30,9 +30,9 @@ Develop a secure web application that allows users to authenticate through an AS
 
 ### Phase 6: Post-Launch & Maintenance
 * **Week 12 (11.12 - 17.12):** Post-launch monitoring, telemetry/log auditing, hotfixes (**v1.0.1 Update**).
-* **Week 13 (18.12 - 25.12):** Project handover, post-mortem analysis, and feature roadmap planning for future iterations (**v1.1.0 Update**).
+* **Week 13 (18.12 - 20.12):** Project handover, post-mortem analysis, and feature roadmap planning for future iterations (**v1.1.0 Update**).
 
-// -----------   Huomioita -------------- //
+// -----------   Notes -------------- //
 
 # Build (Compiled Binaries / Artifacts):
 In desktop software (C++, C#/.NET desktop apps, game engines), a Build refers to the compiled, bundled executable package 

@@ -13,12 +13,10 @@ body {
     font-family: Arial, sans-serif;
 
     background:
-        linear-gradient(
-            to bottom,
+        linear-gradient(to bottom,
             #120023 0%,
             #1a0035 40%,
-            #2e0057 100%
-        );
+            #2e0057 100%);
 
     overflow: hidden;
 }
@@ -33,12 +31,10 @@ body::before {
     height: 450px;
 
     background:
-        radial-gradient(
-            circle,
+        radial-gradient(circle,
             #ffea00 0%,
             #ff8c00 35%,
-            #ff006e 100%
-        );
+            #ff006e 100%);
 
     border-radius: 50%;
 
@@ -64,8 +60,8 @@ body::after {
     height: 40%;
 
     background-image:
-        linear-gradient(rgba(0,255,255,.35) 1px, transparent 1px),
-        linear-gradient(90deg, rgba(0,255,255,.35) 1px, transparent 1px);
+        linear-gradient(rgba(0, 255, 255, .35) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 255, .35) 1px, transparent 1px);
 
     background-size: 40px 40px;
 
@@ -96,7 +92,7 @@ body::after {
 
     box-shadow:
         0 0 15px #00ffff,
-        0 0 40px rgba(0,255,255,.5);
+        0 0 40px rgba(0, 255, 255, .5);
 }
 
 /* Neon logo */

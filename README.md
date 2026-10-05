@@ -21,9 +21,11 @@ megadatabase
     ├── plan.md
     ├── timetable.md
     ├── test-plan.pdf
-    ├── private
     ├── style.css
+    ├── private
     │
     └── images
+        ├── farm.png
+        ├── forest-gif
         ├── landing-page.jpg
         └── scalability.gif
